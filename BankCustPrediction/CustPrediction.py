@@ -1,4 +1,4 @@
-# Artificial Neural Network for prediction wether a customer would leave the Bank. The data set is given in the csv file
+# Artificial Neural Network for prediction whether a customer would leave the Bank. The data set is given in the csv file
 
 
 # Part 1 - Data Preprocessing
